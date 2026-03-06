@@ -8,7 +8,7 @@
 
 **NOTICE (8 Mar 2019): Read [this](https://github.com/soimort/you-get/blob/develop/CONTRIBUTING.md) if you are looking for the conventional "Issues" tab.**
 
----
+--- 
 
 [You-Get](https://you-get.org/) is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 
