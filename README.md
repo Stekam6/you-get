@@ -14,7 +14,7 @@
 
 Here's how you use `you-get` to download a video from [YouTube](https://www.youtube.com/watch?v=jNQXAC9IVRw):
 
-```console
+```console  
 $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
 site:                YouTube
 title:               Me at the zoo
